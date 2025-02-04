@@ -6,7 +6,7 @@ const About = () => {
       id="About"
       className='text-white md:flex overflow-hidden item-center md:flex-wrap md:justify-center bg-cyan-600 shadow-xl mx-0 md:mx-40 rounded-lg py-12'>
       <div className='w-full'>
-        <h2 className='text-3xl md:text-4xl font-bold  leading-tight text-center'>ABOUT </h2>
+        <h2 className='text-3xl md:text-4xl font-bold  leading-tight text-center'>about </h2>
         <div className='py-6 px-10'>
           <p className='text-xl md:text-md leading-tight font-normal'>
           Welcome to Code Nakshatra, the ultimate 24-hour hackathon hosted by Geek Room TIIPS and Code Rangers on 7 & 8 March 2025 at TIIPS, Greater Noida, where innovation thrives and boundaries are shattered! <br /> <br />
